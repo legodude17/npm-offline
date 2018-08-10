@@ -1,1 +1,10 @@
-[object Object]
+{
+    "presets": [
+      ["@babel/env", {
+        "modules": false,
+        "targets": {
+          "node": "6.0"
+        }
+      }]
+    ]
+}
